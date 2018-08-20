@@ -1,4 +1,4 @@
 # hello-world
 Trial
 
-Hi new to try here.
+Hi I'm new to the platform. Trying out here.
